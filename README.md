@@ -1,1 +1,1 @@
-Student registration and login system for universities.
+Text based Student registration and login system.
